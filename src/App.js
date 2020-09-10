@@ -9,9 +9,9 @@ const App = () => {
       <nav className='nav'>
           <div>Profile</div>
           <div>Message</div>
-          <div>fire</div>
-          <div>for</div>
-          <div>tree</div>
+          <div>fuck</div>
+          <div>fuck</div>
+          <div>fuck</div>
           <div>fuck</div>
       </nav>
       <div>
